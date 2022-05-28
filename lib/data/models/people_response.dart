@@ -159,7 +159,5 @@ class People extends Equatable {
         created,
         edited,
         url,
-        subheader,
-        vehiclesList
       ];
 }
