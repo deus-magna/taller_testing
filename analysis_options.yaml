@@ -1,0 +1,12 @@
+include: package:very_good_analysis/analysis_options.2.4.0.yaml
+analyzer: 
+  strong-mode:
+    implicit-casts: true
+    implicit-dynamic: true
+linter:
+  rules:
+    public_member_api_docs: false
+    require_trailing_commas: false
+    prefer_if_elements_to_conditional_expressions: false
+  
+   
